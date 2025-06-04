@@ -21,7 +21,7 @@
 * Visit https://www.wireshark.org/download.html  
 * Download the appropriate Windows installer  
 * *→ in this case, we’ll use the 64 bit installer.*  
-  *`![][image1]`* 
+  *`[Step 3](images/ScreenshotICMP1.png)`* 
 
 ---
 
